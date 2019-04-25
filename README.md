@@ -1,4 +1,4 @@
-# SOP - Sistemas Operacionais - Univille - BES2019
+# Sistemas Operacionais - BES2019 - Univille 
 
 [![](https://jaywcjlove.github.io/sb/ico/linux.svg)](https://www.kernel.org/)
 
