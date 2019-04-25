@@ -1,4 +1,4 @@
-## Exercícios do Terminal Linux
+## Terminal Linux
 
 Exercicíos sobre os comandos do terminal Linux.
 
