@@ -1,16 +1,23 @@
-# SOP - Exercícios de Terminal Linux e Shell - BES2019
+# SOP - Sistemas Operacionais - Univille - BES2019
 
 [![](https://jaywcjlove.github.io/sb/ico/linux.svg)](https://www.kernel.org/)
 
-### Exercícios sobre os comandos no terminal Linux e Shell Script
+Neste repositório está todas as atividades desenvolvidas ao longo do ano de 2019 no curso de Bachareal em Engenharia de Software, na 
+Universidade da Região de Joinville
 
-Estes exercícios foram desenvolvidos na matéria de Sistemas Operacionais no Curso de Bacharelado em Engenharia de Software, 2º Ano 2019.
+As atividades estão separadas por pastas. Ex:
+> sop_bes2019/terminal_linux
 
 O intuído destas atividades é apresentar os comandos de terminal, para tornar o estudante hábil para poder lidar com situações nas quais 
-não se tem disponivél interfaces gráficas, assim como aprender comandos e estrutura do shell script.
+não se tem disponivél interfaces gráficas, assim como aprender comandos e estrutura do shell script. Analisar os serviços e funções de 
+Sistemas Operacionais utilizando suas ferramentas e recursos.
 
-Shell script é uma linguagem de script usada em diversos sistemas operacionais, com diferentes dialetos, dependendo do interpretador de 
-comandos utilizado.
+# Conteúdos
+
+## 1º Bimestre
+
+[Terminal Linux](https://github.com/carlosmondo/SOP_BES2019/blob/master/Terminal_Linux/TerminalLinux.md)
+[Shell Script](https://github.com/carlosmondo/SOP_BES2019/blob/master/Shell_Script/ExerciciosShellScript.md)
 
 <p align="center">
   <a>
