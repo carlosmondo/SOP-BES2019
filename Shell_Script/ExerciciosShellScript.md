@@ -4,7 +4,7 @@ Exercicíos sobre Shell Script.
 
  Problema 1
  
- ´´´shell
+ ```shell
  vi problema1.sh
  i
  #!/usr/bash
@@ -15,10 +15,10 @@ Exercicíos sobre Shell Script.
  :wq
  chmod +x problema1.sh
  sh problema1.sh
- ´´´
+ ```
  
  Problema 2
- ´´´shell
+ ```shell
  vi problema2.sh
  i
  #!/usr/bash
@@ -32,10 +32,10 @@ Exercicíos sobre Shell Script.
  :wq
  chmod +x problema2.sh
  sh problema2.sh 
- ´´´
+ ```
  
  Problema 3
- ´´´shell
+ ```shell
  vi problema3.sh
  i
  #!/usr/bash
@@ -52,10 +52,10 @@ Exercicíos sobre Shell Script.
  :wq
  chmod +x problema3.sh
  sh problema3.sh 
- ´´´
+ ```
  
  Problema 4
- ´´´shell
+ ```shell
  vi problema4.sh
  i
  #!/usr/bash
@@ -69,10 +69,10 @@ Exercicíos sobre Shell Script.
  :wq
  chmod +x problema4.sh
  sh problema4.sh 
- ´´´
+ ```
  
  Problema 5
- ´´´shell
+ ```shell
  vi problema4.sh
  i
  #!/usr/bash
@@ -98,4 +98,4 @@ Exercicíos sobre Shell Script.
  :wq
  chmod +x problema4.sh
  sh problema4.sh 
- ´´´
+ ```
