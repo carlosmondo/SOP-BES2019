@@ -16,8 +16,9 @@ Sistemas Operacionais utilizando suas ferramentas e recursos.
 
 ## 1º Bimestre
 
-[Terminal Linux](https://github.com/carlosmondo/SOP_BES2019/blob/master/Terminal_Linux/TerminalLinux.md)
-[Shell Script](https://github.com/carlosmondo/SOP_BES2019/blob/master/Shell_Script/ExerciciosShellScript.md)
+- [Terminal Linux](https://github.com/carlosmondo/SOP_BES2019/blob/master/Terminal_Linux/TerminalLinux.md)
+
+- [Shell Script](https://github.com/carlosmondo/SOP_BES2019/blob/master/Shell_Script/ExerciciosShellScript.md)
 
 <p align="center">
   <a>
